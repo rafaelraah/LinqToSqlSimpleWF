@@ -1,0 +1,2 @@
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\obj\Release\DAL2.csprojAssemblyReference.cache
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\obj\Release\DAL2.csproj.CoreCompileInputs.cache

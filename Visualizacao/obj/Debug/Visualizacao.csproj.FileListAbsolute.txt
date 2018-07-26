@@ -1,0 +1,14 @@
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.Form1.resources
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.Properties.Resources.resources
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.csproj.GenerateResource.cache
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.csprojAssemblyReference.cache
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\Visualizacao.exe.config
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\Visualizacao.exe
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\Visualizacao.pdb
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\DAL2.dll
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\DAL2.pdb
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\bin\Debug\DAL2.dll.config
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.csproj.CopyComplete
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.exe
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Debug\Visualizacao.pdb

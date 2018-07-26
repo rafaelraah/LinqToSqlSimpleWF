@@ -1,0 +1,8 @@
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\bin\Release\netcoreapp2.0\BLL.deps.json
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\bin\Release\netcoreapp2.0\BLL.dll
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\bin\Release\netcoreapp2.0\BLL.pdb
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\obj\Release\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\obj\Release\netcoreapp2.0\BLL.AssemblyInfo.cs
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\obj\Release\netcoreapp2.0\BLL.dll
+C:\Users\Raah\source\repos\LINQTOSQL\BLL\obj\Release\netcoreapp2.0\BLL.pdb

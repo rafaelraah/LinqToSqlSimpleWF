@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LinqToSql" Class="CadastroDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=RAAH-PC\SQLEXPRESS;Initial Catalog=LinqToSql;Integrated Security=True" SettingsObjectName="DAL2.Properties.Settings" SettingsPropertyName="LinqToSqlConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TB_Jogo" Member="TB_Jogo">
+    <Type Name="TB_Jogo">
+      <Column Name="id_jogo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ds_nome" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="ds_categoria" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="dt_dataCriacao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

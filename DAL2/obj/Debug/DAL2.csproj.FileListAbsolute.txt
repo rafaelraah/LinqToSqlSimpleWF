@@ -1,0 +1,7 @@
+C:\Users\Raah\source\repos\LINQTOSQL\Project1\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\bin\Debug\DAL2.dll
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\bin\Debug\DAL2.pdb
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\obj\Debug\DAL2.dll
+C:\Users\Raah\source\repos\LINQTOSQL\DAL2\obj\Debug\DAL2.pdb

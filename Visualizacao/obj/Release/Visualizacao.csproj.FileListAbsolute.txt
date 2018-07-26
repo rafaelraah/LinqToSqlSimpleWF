@@ -1,0 +1,4 @@
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Release\Visualizacao.Form1.resources
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Release\Visualizacao.Properties.Resources.resources
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Release\Visualizacao.csproj.GenerateResource.cache
+C:\Users\Raah\source\repos\LINQTOSQL\Visualizacao\obj\Release\Visualizacao.csproj.CoreCompileInputs.cache
